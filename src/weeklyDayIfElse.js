@@ -18,4 +18,4 @@ function getDayIfElse(day) {
     }
 }
 
-console.log(getDayIfElse(3));  // "Mercredi"
+console.log(getDayIfElse(1));
